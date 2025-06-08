@@ -1,6 +1,7 @@
 # first_app
 
-A new Flutter project.
+A new Flutter project with dart.
+The project is a dice, of which when clicked upon rotates across the six points.
 
 ## Getting Started
 
